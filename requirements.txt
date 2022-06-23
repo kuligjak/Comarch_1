@@ -1,0 +1,29 @@
+faker
+pandas
+matplotlib
+snakemd
+rainbowcsv
+openpyxl
+PySimpleGUI
+flask
+
+
+#
+# 1. wsparcie paragdygmat,
+# typowanie dynamiczne,
+# wieloplatformowosæ,
+#
+# 2. eclipse,
+# visual studio,
+# pyscripter,
+#
+#
+# 3. x = 3.455
+#
+# 4. tupla jest zmienn¹
+#
+# 5. list(s)
+#
+# 6. def_nazwa(), + b
+#
+# 7.

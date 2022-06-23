@@ -1,1 +1,4 @@
-# Comarch_1
+# Raport sprzeda¿y za Q1
+
+### Opis naszego przedsiêwziêcia:
+Sprzedajemy samochody *luksusowe*.
